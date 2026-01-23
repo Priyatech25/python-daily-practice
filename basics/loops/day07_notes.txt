@@ -1,0 +1,4 @@
+Day 7 Notes:
+- for loop is used when range is known
+- while loop runs until condition is false
+- range(start, stop) is common in loops
