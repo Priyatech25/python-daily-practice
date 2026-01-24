@@ -1,0 +1,4 @@
+Day 8 Notes:
+- Functions avoid code repetition
+- return sends value back
+- Functions improve readability
