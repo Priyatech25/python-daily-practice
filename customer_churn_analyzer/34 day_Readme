@@ -1,0 +1,16 @@
+## Day 34 - Model Evaluation & Comparison
+
+Today I compared multiple ML models for HR Attrition Prediction:
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+Evaluation Metrics Used:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- ROC-AUC Score
+
+Best Model Selected Based on Performance.
