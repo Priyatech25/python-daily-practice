@@ -39,3 +39,7 @@ print("Most Successful Team:", most_wins)
 print("Total Runs Scored:", total_runs)
 
 print("Thank you for using IPL Analyzer!")
+
+# User input feature
+team_name = input("Enter team name to check wins: ")
+print("Wins:", win_count.get(team_name, 0))
