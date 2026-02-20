@@ -37,3 +37,5 @@ print("Total Matches:", total_matches)
 print("Win Count:", win_count)
 print("Most Successful Team:", most_wins)
 print("Total Runs Scored:", total_runs)
+
+print("Thank you for using IPL Analyzer!")
