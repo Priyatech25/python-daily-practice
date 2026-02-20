@@ -30,6 +30,10 @@ total_runs = 0
 for match in matches:
     total_runs += match["runs"]
 
+# Calculate average runs
+average = total_runs / total_matches
+print("Average Runs per Match:", average)
+
 # Display Results
 print("IPL MINI ANALYSIS")
 print("------------------")
