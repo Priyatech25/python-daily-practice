@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,The Great Adventure,John Smith,Actor A|Actor B,United States,January 1, 2020,2020,PG-13,100 min,Action & Adventure
+s2,TV Show,Love in Paris,Jane Doe,Actor C|Actor D,France,March 15, 2019,2019,TV-MA,2 Seasons,Romantic TV Shows
+s3,Movie,The Mystery Lake,Robert Brown,Actor E|Actor F,Canada,July 10, 2021,2021,PG,95 min,Thrillers
+s4,Movie,Space Journey,Emily Clark,Actor G|Actor H,United Kingdom,December 5, 2018,2018,PG-13,110 min,Sci-Fi & Fantasy
+s5,TV Show,Crime Files,David Wilson,Actor I|Actor J,United States,August 20, 2022,2022,TV-14,3 Seasons,Crime TV Shows
+s6,Movie,The Last Warrior,Chris Evans,Actor K|Actor L,India,May 9, 2020,2020,R,130 min,Action & Adventure
+s7,TV Show,Cooking Master,Sarah Lee,Chef A|Chef B,India,February 12, 2021,2021,TV-G,1 Season,Reality TV
+s8,Movie,Haunted Nights,Michael King,Actor M|Actor N,United States,October 31, 2019,2019,R,105 min,Horror Movies
+s9,Movie,Future World,Amanda White,Actor O|Actor P,Australia,June 18, 2023,2023,PG-13,115 min,Sci-Fi & Fantasy
+s10,TV Show,The Startup Story,Kevin Hart,Actor Q|Actor R,United States,April 22, 2022,2022,TV-MA,4 Seasons,Documentaries
